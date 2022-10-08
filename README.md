@@ -8,6 +8,4 @@
 
  4. bike_dataset.R: R code for the data set used in the application;
  
-  5. NonpModelCheck_3.0.tar.gz: The R code needs o use the package "NonpModelCheck". This package is not available in cran anymore, but you can install it using 
-
-install.packages('NonpModelCheck_3.0.tar.gz') 
+  5. NonpModelCheck_3.0.tar.gz: The R code needs o use the package "NonpModelCheck". This package is not available in cran anymore, but you can install it using install.packages('NonpModelCheck_3.0.tar.gz') 
